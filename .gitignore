@@ -1,6 +1,6 @@
 target
 **/*.rs.bk
-.vscode/*.log
 .aider*
-.env
 .idea
+config.bat
+node_modules
