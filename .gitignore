@@ -1,8 +1,6 @@
 target
 **/*.rs.bk
-.vscode/*.log
 .aider*
-.env
 .idea
 *.rlib
 
@@ -13,3 +11,5 @@ bazel-*
 
 # Emacs backups
 *~
+config.bat
+node_modules
